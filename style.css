@@ -100,3 +100,13 @@ p {
   text-decoration: none;
   text-transform: capitalize;
 }
+
+@media (max-width: 600px){
+  .portfolioBlock{
+   Text-align: center!important;
+   padding:1rem 0;
+  }
+  .textBlock{
+    margin-bottom:2rem;
+  }
+}
